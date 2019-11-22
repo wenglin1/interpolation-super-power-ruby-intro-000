@@ -1,4 +1,4 @@
-def display_rainbow(colors = ["R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet"])# Write your #display_rainbow method here
+def display_rainbow(["R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet"])# Write your #display_rainbow method here
   puts "The first color in the rainbow is: #{colors[0]}"
   puts "The second color in the rainbow is: #{colors[1]}"
   puts "The third color in the rainbow is: #{colors[2]}"
